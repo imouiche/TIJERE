@@ -1,8 +1,6 @@
 # Effective-Joint-Entity-and-Relation-Extractions-Model
 - TIJERE: Threat Intelligence Joint Entity and Relation Extractions
-- If you use this dataset, cite the preprint paper as: # Inoussa Mouiche, Sherif Saad. TIJERE: A Novel Threat Intelligence Joint Extraction Model based on Analyst Expert Knowledge. TechRxiv. March 25, 2025.
-DOI: 10.36227/techrxiv.174286575.55673704/v1
-
+- If you use this dataset, cite the preprint paper as: # Inoussa Mouiche, Sherif Saad. TIJERE: A Novel Threat Intelligence Joint Extraction Model based on Analyst Expert Knowledge. Knowledge-Based Systems 2025 https://doi.org/10.1016/j.knosys.2025.114346
 - Split the dataset into train, test, and validation sets
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
